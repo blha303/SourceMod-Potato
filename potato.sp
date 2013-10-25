@@ -5,9 +5,9 @@ public Plugin:myinfo =
 {
 	name = "Potato",
 	author = "blha303",
-	description = "My first plugin ever",
-	version = "1.0.0.0",
-	url = "http://github.com/blha303/"
+	description = "Joke plugin",
+	version = "1.0.0.1",
+	url = "http://github.com/blha303/SourceMod-Potato"
 }
  
 public OnPluginStart()
